@@ -23,4 +23,4 @@ Criar um sistema de carrinho de compras baseado na lógica do e-commerce da Shop
 2. Abra o terminal na pasta raiz do projeto.
 3. Execute o comando principal para ver a simulação do carrinho rodando:
    ```bash
-   node index.js
+   node src/index.js
