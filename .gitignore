@@ -1,0 +1,17 @@
+# Dependências do Node (esta pasta é muito pesada e nunca deve ir pro GitHub)
+node_modules/
+
+# Logs de erro do npm/yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de variáveis de ambiente (onde ficam senhas e chaves de API futuramente)
+.env
+.env.test
+.env.production
+
+# Arquivos de sistema operacional e editores de código
+.DS_Store
+Thumbs.db
+.vscode/
